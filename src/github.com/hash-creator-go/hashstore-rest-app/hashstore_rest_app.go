@@ -4,7 +4,7 @@ import (
 	"net/http"
 	"log"
 	"flag"
-	"github.com/dylan-jcloud-assignment/hashstore"
+	"github.com/hash-creator-go/hashstore"
 )
 
 var store hashstore.HashStore

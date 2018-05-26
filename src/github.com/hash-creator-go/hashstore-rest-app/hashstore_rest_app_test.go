@@ -6,7 +6,7 @@ import (
 	"net/http/httptest"
 	"strings"
 	"io"
-	"github.com/dylan-jcloud-assignment/hashstore"
+	"github.com/hash-creator-go/hashstore"
 	"strconv"
 	"time"
 )
